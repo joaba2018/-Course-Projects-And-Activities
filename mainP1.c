@@ -23,7 +23,7 @@ int pegamateria()
     do{
           printf("Digite 1 para Inteligencia artificial \n");
           printf("Digite 2 para Sistemas distribuidos \n");
-          printf("Digite 3 para computação paralela \n");
+          printf("Digite 3 para computaÃ§Ã£o paralela \n");
           scanf("%d",&materia);
     }while(!((materia == 1) || (materia == 2) || (materia == 3)));
     return materia;
